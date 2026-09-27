@@ -1,0 +1,7 @@
+baseURL = 'https://lumuyuan_madoka.github.io/'
+locale = 'zh-tw'
+title = 'lumuyuan_madoka'
+theme = 'PaperMod'
+
+[params]
+  math = true
